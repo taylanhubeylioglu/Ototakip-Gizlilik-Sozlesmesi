@@ -1,2 +1,2 @@
-# ototakip.github.io
+# Ototakip Gizlilik Sozlesmesi
 Ototakip Gizlilik Sözleşmesi
